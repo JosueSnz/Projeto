@@ -1,0 +1,4747 @@
+# Created by Octave 8.2.0, Wed Nov 22 20:54:00 2023 GMT <unknown@Computador>
+# name: dados
+# type: cell
+# rows: 1
+# columns: 237
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2004
+
+
+# name: Valor
+# type: scalar
+26978358.020000007
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2004
+
+
+# name: Valor
+# type: scalar
+26508170.77
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2004
+
+
+# name: Valor
+# type: scalar
+27284329.409999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2004
+
+
+# name: Valor
+# type: scalar
+28046182.351
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2004
+
+
+# name: Valor
+# type: scalar
+27244506.479999993
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2004
+
+
+# name: Valor
+# type: scalar
+27082961.479999997
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2004
+
+
+# name: Valor
+# type: scalar
+27346004.670000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2004
+
+
+# name: Valor
+# type: scalar
+27656857.789999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2004
+
+
+# name: Valor
+# type: scalar
+28232451.24000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2004
+
+
+# name: Valor
+# type: scalar
+28556120.939999994
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2004
+
+
+# name: Valor
+# type: scalar
+28367124.049999993
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2004
+
+
+# name: Valor
+# type: scalar
+28562106.43
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2005
+
+
+# name: Valor
+# type: scalar
+28375437.441
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2005
+
+
+# name: Valor
+# type: scalar
+27838480.970000003
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2005
+
+
+# name: Valor
+# type: scalar
+28598631.508999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2005
+
+
+# name: Valor
+# type: scalar
+29355501.910000008
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2005
+
+
+# name: Valor
+# type: scalar
+28482150.609999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2005
+
+
+# name: Valor
+# type: scalar
+28326181.920000013
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2005
+
+
+# name: Valor
+# type: scalar
+28322317.11999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2005
+
+
+# name: Valor
+# type: scalar
+28764354.809000008
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2005
+
+
+# name: Valor
+# type: scalar
+29335128.080000013
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2005
+
+
+# name: Valor
+# type: scalar
+29145312.050000008
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2005
+
+
+# name: Valor
+# type: scalar
+29287617.219999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2005
+
+
+# name: Valor
+# type: scalar
+29505146.070000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2006
+
+
+# name: Valor
+# type: scalar
+28880910.620000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2006
+
+
+# name: Valor
+# type: scalar
+29383486.499999993
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2006
+
+
+# name: Valor
+# type: scalar
+29897827.73
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2006
+
+
+# name: Valor
+# type: scalar
+29887953.009999998
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2006
+
+
+# name: Valor
+# type: scalar
+28925038.559999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2006
+
+
+# name: Valor
+# type: scalar
+29068797.599999994
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2006
+
+
+# name: Valor
+# type: scalar
+29113809.229999993
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2006
+
+
+# name: Valor
+# type: scalar
+29886236.059999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2006
+
+
+# name: Valor
+# type: scalar
+29916630.539000008
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2006
+
+
+# name: Valor
+# type: scalar
+30143525.320000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2006
+
+
+# name: Valor
+# type: scalar
+30531121.359999992
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2006
+
+
+# name: Valor
+# type: scalar
+30493979.030000009
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2007
+
+
+# name: Valor
+# type: scalar
+30699704
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2007
+
+
+# name: Valor
+# type: scalar
+30324669
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2007
+
+
+# name: Valor
+# type: scalar
+31312900
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2007
+
+
+# name: Valor
+# type: scalar
+32030744
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2007
+
+
+# name: Valor
+# type: scalar
+31382917
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2007
+
+
+# name: Valor
+# type: scalar
+30766760
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2007
+
+
+# name: Valor
+# type: scalar
+30500299
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2007
+
+
+# name: Valor
+# type: scalar
+31181133
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2007
+
+
+# name: Valor
+# type: scalar
+31735736
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2007
+
+
+# name: Valor
+# type: scalar
+32135735
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2007
+
+
+# name: Valor
+# type: scalar
+32654491
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2007
+
+
+# name: Valor
+# type: scalar
+32304926
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2008
+
+
+# name: Valor
+# type: scalar
+31855946.27
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2008
+
+
+# name: Valor
+# type: scalar
+31730940.649999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2008
+
+
+# name: Valor
+# type: scalar
+32118714.859999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2008
+
+
+# name: Valor
+# type: scalar
+31952656.289999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2008
+
+
+# name: Valor
+# type: scalar
+32299963.390000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2008
+
+
+# name: Valor
+# type: scalar
+31742987.789999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2008
+
+
+# name: Valor
+# type: scalar
+32150352.030000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2008
+
+
+# name: Valor
+# type: scalar
+33013528.629999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2008
+
+
+# name: Valor
+# type: scalar
+32964086.690000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2008
+
+
+# name: Valor
+# type: scalar
+33673777.379999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2008
+
+
+# name: Valor
+# type: scalar
+33410166.509999998
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2008
+
+
+# name: Valor
+# type: scalar
+31559278.490000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2009
+
+
+# name: Valor
+# type: scalar
+30666661.800000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2009
+
+
+# name: Valor
+# type: scalar
+30495142.710000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2009
+
+
+# name: Valor
+# type: scalar
+31977749.510000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2009
+
+
+# name: Valor
+# type: scalar
+32042792.800000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2009
+
+
+# name: Valor
+# type: scalar
+30945452.900000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2009
+
+
+# name: Valor
+# type: scalar
+30715169.949999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2009
+
+
+# name: Valor
+# type: scalar
+31324991.23
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2009
+
+
+# name: Valor
+# type: scalar
+32262205.600000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2009
+
+
+# name: Valor
+# type: scalar
+32716665.810000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2009
+
+
+# name: Valor
+# type: scalar
+33419533.139999997
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2009
+
+
+# name: Valor
+# type: scalar
+33616820.200000003
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2009
+
+
+# name: Valor
+# type: scalar
+34123194.700000003
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2010
+
+
+# name: Valor
+# type: scalar
+33360460.710000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2010
+
+
+# name: Valor
+# type: scalar
+33729757.75
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2010
+
+
+# name: Valor
+# type: scalar
+35116881.82
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2010
+
+
+# name: Valor
+# type: scalar
+35025860.489999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2010
+
+
+# name: Valor
+# type: scalar
+34296978
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2010
+
+
+# name: Valor
+# type: scalar
+34169459
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2010
+
+
+# name: Valor
+# type: scalar
+33849349
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2010
+
+
+# name: Valor
+# type: scalar
+34713394.230000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2010
+
+
+# name: Valor
+# type: scalar
+35182271.010000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2010
+
+
+# name: Valor
+# type: scalar
+35188924.990000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2010
+
+
+# name: Valor
+# type: scalar
+35077981.259999998
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2010
+
+
+# name: Valor
+# type: scalar
+35956439.399999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2011
+
+
+# name: Valor
+# type: scalar
+35873744.260000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2011
+
+
+# name: Valor
+# type: scalar
+35444916.659999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2011
+
+
+# name: Valor
+# type: scalar
+36350690.049999997
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2011
+
+
+# name: Valor
+# type: scalar
+36048318.049999997
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2011
+
+
+# name: Valor
+# type: scalar
+35565987.390000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2011
+
+
+# name: Valor
+# type: scalar
+35159573.719999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2011
+
+
+# name: Valor
+# type: scalar
+35417292.620000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2011
+
+
+# name: Valor
+# type: scalar
+36335812.840000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2011
+
+
+# name: Valor
+# type: scalar
+36965189.340000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2011
+
+
+# name: Valor
+# type: scalar
+36743770.379999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2011
+
+
+# name: Valor
+# type: scalar
+36368389.769999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2011
+
+
+# name: Valor
+# type: scalar
+36741948.780000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2012
+
+
+# name: Valor
+# type: scalar
+36305167.290000007
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2012
+
+
+# name: Valor
+# type: scalar
+36900531.019999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2012
+
+
+# name: Valor
+# type: scalar
+38623110.719999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2012
+
+
+# name: Valor
+# type: scalar
+37995869.090000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2012
+
+
+# name: Valor
+# type: scalar
+36810191.030000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2012
+
+
+# name: Valor
+# type: scalar
+36528393.109999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2012
+
+
+# name: Valor
+# type: scalar
+35917147.199999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2012
+
+
+# name: Valor
+# type: scalar
+37179602.530000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2012
+
+
+# name: Valor
+# type: scalar
+37661696.120000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2012
+
+
+# name: Valor
+# type: scalar
+37796014.07
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2012
+
+
+# name: Valor
+# type: scalar
+38643584.230000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2012
+
+
+# name: Valor
+# type: scalar
+37765084.440000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2013
+
+
+# name: Valor
+# type: scalar
+38366809.739999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2013
+
+
+# name: Valor
+# type: scalar
+38005651.719999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2013
+
+
+# name: Valor
+# type: scalar
+38442191.549999997
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2013
+
+
+# name: Valor
+# type: scalar
+38653663.43
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2013
+
+
+# name: Valor
+# type: scalar
+38344861.57
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2013
+
+
+# name: Valor
+# type: scalar
+37627698.010000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2013
+
+
+# name: Valor
+# type: scalar
+37697945.030000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2013
+
+
+# name: Valor
+# type: scalar
+38613276.260000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2013
+
+
+# name: Valor
+# type: scalar
+38524724.159999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2013
+
+
+# name: Valor
+# type: scalar
+39389004.379999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2013
+
+
+# name: Valor
+# type: scalar
+39920289.539999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2013
+
+
+# name: Valor
+# type: scalar
+39556378.239999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2014
+
+
+# name: Valor
+# type: scalar
+40279759
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2014
+
+
+# name: Valor
+# type: scalar
+41653487
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2014
+
+
+# name: Valor
+# type: scalar
+40269429
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2014
+
+
+# name: Valor
+# type: scalar
+39591854
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2014
+
+
+# name: Valor
+# type: scalar
+39100499
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2014
+
+
+# name: Valor
+# type: scalar
+37726472.880000003
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2014
+
+
+# name: Valor
+# type: scalar
+37866809
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2014
+
+
+# name: Valor
+# type: scalar
+38550694
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2014
+
+
+# name: Valor
+# type: scalar
+38894976
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2014
+
+
+# name: Valor
+# type: scalar
+40100440.590000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2014
+
+
+# name: Valor
+# type: scalar
+40950726.390000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2014
+
+
+# name: Valor
+# type: scalar
+39838307.030000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2015
+
+
+# name: Valor
+# type: scalar
+40757967.530000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2015
+
+
+# name: Valor
+# type: scalar
+40719266.359999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2015
+
+
+# name: Valor
+# type: scalar
+39758964.390000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2015
+
+
+# name: Valor
+# type: scalar
+39596670.300000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2015
+
+
+# name: Valor
+# type: scalar
+38202362.339999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2015
+
+
+# name: Valor
+# type: scalar
+37263665.830000006
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2015
+
+
+# name: Valor
+# type: scalar
+36816443.289999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2015
+
+
+# name: Valor
+# type: scalar
+37858685.110000007
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2015
+
+
+# name: Valor
+# type: scalar
+37841649.600000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2015
+
+
+# name: Valor
+# type: scalar
+39276665.570000008
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2015
+
+
+# name: Valor
+# type: scalar
+39224855.370000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2015
+
+
+# name: Valor
+# type: scalar
+38669960.360000007
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2016
+
+
+# name: Valor
+# type: scalar
+38400901.100000009
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2016
+
+
+# name: Valor
+# type: scalar
+38727336.57
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2016
+
+
+# name: Valor
+# type: scalar
+39444914.240000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2016
+
+
+# name: Valor
+# type: scalar
+40269420.080000006
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2016
+
+
+# name: Valor
+# type: scalar
+38648672.579999991
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2016
+
+
+# name: Valor
+# type: scalar
+37550409.230000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2016
+
+
+# name: Valor
+# type: scalar
+37255240.920000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2016
+
+
+# name: Valor
+# type: scalar
+37693934.25
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2016
+
+
+# name: Valor
+# type: scalar
+38345059.93
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2016
+
+
+# name: Valor
+# type: scalar
+38197842.240000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2016
+
+
+# name: Valor
+# type: scalar
+38754249.059999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2016
+
+
+# name: Valor
+# type: scalar
+38780794.980000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2017
+
+
+# name: Valor
+# type: scalar
+39369163.579999998
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2017
+
+
+# name: Valor
+# type: scalar
+38836387.490000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2017
+
+
+# name: Valor
+# type: scalar
+40545594.160000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2017
+
+
+# name: Valor
+# type: scalar
+39430431.289999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2017
+
+
+# name: Valor
+# type: scalar
+38154686.32
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2017
+
+
+# name: Valor
+# type: scalar
+38114265.089999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2017
+
+
+# name: Valor
+# type: scalar
+37380263.359999992
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2017
+
+
+# name: Valor
+# type: scalar
+37865728.849999994
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2017
+
+
+# name: Valor
+# type: scalar
+39008926.43
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2017
+
+
+# name: Valor
+# type: scalar
+39336272.020000003
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2017
+
+
+# name: Valor
+# type: scalar
+39826888.259999998
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2017
+
+
+# name: Valor
+# type: scalar
+39606125.910000004
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2018
+
+
+# name: Valor
+# type: scalar
+40054674.799999997
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2018
+
+
+# name: Valor
+# type: scalar
+39169029.749999985
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2018
+
+
+# name: Valor
+# type: scalar
+41106870.61999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2018
+
+
+# name: Valor
+# type: scalar
+40695005.250000022
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2018
+
+
+# name: Valor
+# type: scalar
+39263298.54999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2018
+
+
+# name: Valor
+# type: scalar
+38203299.080000006
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2018
+
+
+# name: Valor
+# type: scalar
+38508156.909999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2018
+
+
+# name: Valor
+# type: scalar
+39048876.010000013
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2018
+
+
+# name: Valor
+# type: scalar
+39038986.540000014
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2018
+
+
+# name: Valor
+# type: scalar
+40393786.25
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2018
+
+
+# name: Valor
+# type: scalar
+40407668.501000032
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2018
+
+
+# name: Valor
+# type: scalar
+39874847.890000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2019
+
+
+# name: Valor
+# type: scalar
+41647188.369999997
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2019
+
+
+# name: Valor
+# type: scalar
+41164000.329999976
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2019
+
+
+# name: Valor
+# type: scalar
+41147991.63000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2019
+
+
+# name: Valor
+# type: scalar
+39723394.699999988
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2019
+
+
+# name: Valor
+# type: scalar
+40480651.07
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2019
+
+
+# name: Valor
+# type: scalar
+38440784.12000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2019
+
+
+# name: Valor
+# type: scalar
+38345918.609999992
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2019
+
+
+# name: Valor
+# type: scalar
+38641545.838999994
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2019
+
+
+# name: Valor
+# type: scalar
+39262189.39099998
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2019
+
+
+# name: Valor
+# type: scalar
+41067778.910000019
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2019
+
+
+# name: Valor
+# type: scalar
+41792473.470000014
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2019
+
+
+# name: Valor
+# type: scalar
+40801897.820000008
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2020
+
+
+# name: Valor
+# type: scalar
+41329206.0101
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2020
+
+
+# name: Valor
+# type: scalar
+40964138.86999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2020
+
+
+# name: Valor
+# type: scalar
+41138619.019000009
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2020
+
+
+# name: Valor
+# type: scalar
+37264053.859999985
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2020
+
+
+# name: Valor
+# type: scalar
+36124235.540100008
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2020
+
+
+# name: Valor
+# type: scalar
+35769050.279999979
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2020
+
+
+# name: Valor
+# type: scalar
+37869299.129000016
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2020
+
+
+# name: Valor
+# type: scalar
+39242225.900000006
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2020
+
+
+# name: Valor
+# type: scalar
+40352369.648999989
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2020
+
+
+# name: Valor
+# type: scalar
+42923614.500999995
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2020
+
+
+# name: Valor
+# type: scalar
+41430693.789900005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2020
+
+
+# name: Valor
+# type: scalar
+42161402.530000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2021
+
+
+# name: Valor
+# type: scalar
+43093327.860000007
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2021
+
+
+# name: Valor
+# type: scalar
+41507062.789999992
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2021
+
+
+# name: Valor
+# type: scalar
+43661452.060999997
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2021
+
+
+# name: Valor
+# type: scalar
+42657441.680000007
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2021
+
+
+# name: Valor
+# type: scalar
+40784637.999999985
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2021
+
+
+# name: Valor
+# type: scalar
+40428922.629999988
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2021
+
+
+# name: Valor
+# type: scalar
+40190502.12000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2021
+
+
+# name: Valor
+# type: scalar
+40908016.07
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2021
+
+
+# name: Valor
+# type: scalar
+41952552.080000006
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2021
+
+
+# name: Valor
+# type: scalar
+42596650.580999993
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2021
+
+
+# name: Valor
+# type: scalar
+41869275.910999984
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2021
+
+
+# name: Valor
+# type: scalar
+42915950.780000016
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2022
+
+
+# name: Valor
+# type: scalar
+42532862.360000007
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2022
+
+
+# name: Valor
+# type: scalar
+41850671.710000001
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2022
+
+
+# name: Valor
+# type: scalar
+44672352.520000011
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2022
+
+
+# name: Valor
+# type: scalar
+43210840.669999994
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2022
+
+
+# name: Valor
+# type: scalar
+42050012.731000006
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2022
+
+
+# name: Valor
+# type: scalar
+40938867.979000002
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2022
+
+
+# name: Valor
+# type: scalar
+41232572.949999988
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2022
+
+
+# name: Valor
+# type: scalar
+42172537.350000009
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2022
+
+
+# name: Valor
+# type: scalar
+42277566.519999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+10/2022
+
+
+# name: Valor
+# type: scalar
+42486027.328999981
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+11/2022
+
+
+# name: Valor
+# type: scalar
+42786612.830000021
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+12/2022
+
+
+# name: Valor
+# type: scalar
+43230081.040000029
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+01/2023
+
+
+# name: Valor
+# type: scalar
+42814136.519999996
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+02/2023
+
+
+# name: Valor
+# type: scalar
+42898045.130000003
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+03/2023
+
+
+# name: Valor
+# type: scalar
+45713677.439999983
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+04/2023
+
+
+# name: Valor
+# type: scalar
+44721023.61999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+05/2023
+
+
+# name: Valor
+# type: scalar
+43184813.870000005
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+06/2023
+
+
+# name: Valor
+# type: scalar
+42567780.109999999
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+07/2023
+
+
+# name: Valor
+# type: scalar
+41941059.829999991
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+08/2023
+
+
+# name: Valor
+# type: scalar
+43404361.460100003
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: Data
+# type: sq_string
+# elements: 1
+# length: 7
+09/2023
+
+
+# name: Valor
+# type: scalar
+44462035.670999981
+
+
+
+
+
+
+
